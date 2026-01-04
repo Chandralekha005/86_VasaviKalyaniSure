@@ -161,7 +161,7 @@ Each section includes **citations to source financial data** for traceability.
 | RAG Framework | LangChain |
 | Embeddings | text-embedding-3-small / Sentence Transformers |
 | Vector Database | ChromaDB / FAISS |
-| LLM | OpenAI / Gemini / Claude / Local LLM |
+| LLM | Hugging Face Transformer - flan t5 base|
 | Validation | Pydantic |
 | Output | Markdown (.md) |
 
